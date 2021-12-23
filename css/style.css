@@ -17,8 +17,7 @@ a {
 	margin-right: 10px;
 }
 .container {
-	width:100%;
-	min-height:200px;
+	width:80%;
 	margin:0 auto;
 }
 .container:after {
